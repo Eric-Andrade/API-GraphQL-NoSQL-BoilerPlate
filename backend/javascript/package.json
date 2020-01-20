@@ -21,7 +21,7 @@
     "graphql-subscriptions": "^0.4.4",
     "graphql-tools": "^1.2.2",
     "jsonwebtoken": "^7.4.3",
-    "mongoose": "^4.11.9",
+    "mongoose": "^5.8.9",
     "serve-favicon": "^2.4.3",
     "subscriptions-transport-ws": "^0.8.2"
   },
